@@ -1696,19 +1696,19 @@
 	"w3s-btn": {
 		"prefix": "w3s-btn",
 		"body": [
-			"<button class=\"w3-button ${1|w3-block,w3-circle|} w3-${2|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,aqua,teal,green,light-green,lime,sand,khaki,yellow,amber,orange,deep-orange,blue-grey,brown,light-grey,grey,dark-grey,black,pale-red,pale-yellow,pale-green,pale-blue,transparent|} w3-${3|w3-tiny,w3-small,w3-medium,w3-large,w3-xlarge,w3-xxlarge,w3-xxxlarge,w3-jumbo}\">${4}</button>"
+			"<button class=\"w3-button ${1|w3-block,w3-circle|} w3-${2|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,aqua,teal,green,light-green,lime,sand,khaki,yellow,amber,orange,deep-orange,blue-grey,brown,light-grey,grey,dark-grey,black,pale-red,pale-yellow,pale-green,pale-blue,transparent|} w3-${3|w3-tiny,w3-small,w3-medium,w3-large,w3-xlarge,w3-xxlarge,w3-xxxlarge,w3-jumbo|}\">${4}</button>"
 		]
 	},
 	"w3s-btn-round": {
 		"prefix": "w3s-btn-round",
 		"body": [
-			"<button class=\"w3-button ${1|w3-round,w3-round-small,w3-round-large,w3-round-xlarge,w3-round-xxlarge|} w3-${2|w3-tiny,w3-small,w3-medium,w3-large,w3-xlarge,w3-xxlarge,w3-xxxlarge,w3-jumbo} w3-${3|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,aqua,teal,green,light-green,lime,sand,khaki,yellow,amber,orange,deep-orange,blue-grey,brown,light-grey,grey,dark-grey,black,pale-red,pale-yellow,pale-green,pale-blue,transparent|}\">${3}</button>"
+			"<button class=\"w3-button ${1|w3-round,w3-round-small,w3-round-large,w3-round-xlarge,w3-round-xxlarge|} w3-${2|w3-tiny,w3-small,w3-medium,w3-large,w3-xlarge,w3-xxlarge,w3-xxxlarge,w3-jumbo|} w3-${3|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,aqua,teal,green,light-green,lime,sand,khaki,yellow,amber,orange,deep-orange,blue-grey,brown,light-grey,grey,dark-grey,black,pale-red,pale-yellow,pale-green,pale-blue,transparent|}\">${3}</button>"
 		]
 	},
 	"w3s-btn-full": {
 		"prefix": "w3s-btn-full",
 		"body": [
-			"<button class=\"w3-button w3-block w3-${1|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,aqua,teal,green,light-green,lime,sand,khaki,yellow,amber,orange,deep-orange,blue-grey,brown,light-grey,grey,dark-grey,black,pale-red,pale-yellow,pale-green,pale-blue,transparent|} w3-${2|w3-tiny,w3-small,w3-medium,w3-large,w3-xlarge,w3-xxlarge,w3-xxxlarge,w3-jumbo}\">${3}</button>"
+			"<button class=\"w3-button w3-block w3-${1|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,aqua,teal,green,light-green,lime,sand,khaki,yellow,amber,orange,deep-orange,blue-grey,brown,light-grey,grey,dark-grey,black,pale-red,pale-yellow,pale-green,pale-blue,transparent|} w3-${2|w3-tiny,w3-small,w3-medium,w3-large,w3-xlarge,w3-xxlarge,w3-xxxlarge,w3-jumbo|}\">${3}</button>"
 		]
 	},
 	"w3s-btn-group": {
@@ -1724,7 +1724,7 @@
 	"w3s-btn-circular": {
 		"prefix": "w3s-btn-circular",
 		"body": [
-			"<button class=\"w3-button w3-${1|w3-tiny,w3-small,w3-medium,w3-large,w3-xlarge,w3-xxlarge,w3-xxxlarge,w3-jumbo} w3-circle w3-${2|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,aqua,teal,green,light-green,lime,sand,khaki,yellow,amber,orange,deep-orange,blue-grey,brown,light-grey,grey,dark-grey,black,pale-red,pale-yellow,pale-green,pale-blue,transparent|}\">${3}</button>"
+			"<button class=\"w3-button w3-${1|w3-tiny,w3-small,w3-medium,w3-large,w3-xlarge,w3-xxlarge,w3-xxxlarge,w3-jumbo|} w3-circle w3-${2|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,aqua,teal,green,light-green,lime,sand,khaki,yellow,amber,orange,deep-orange,blue-grey,brown,light-grey,grey,dark-grey,black,pale-red,pale-yellow,pale-green,pale-blue,transparent|}\">${3}</button>"
 		]
 	},
 
